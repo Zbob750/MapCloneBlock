@@ -1,0 +1,9 @@
+name: MCB
+main: com.destroystokyo.mapcloneblock.Main
+version: ${project.version}
+description: "[23:06:38] <Z750> could probably write a quick plugin to do it"
+author: Z750
+permissions:
+    mapcloneblock.bypass:
+        description: Bypass block
+        default: op
